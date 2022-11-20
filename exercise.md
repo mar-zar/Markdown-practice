@@ -31,14 +31,27 @@ _hi_
 ~~no~~ <- tyldy podwójne
 
 <!-- Example of headers -->
+# Links & images
 
 <!-- Example of external link -->
+## links
+
+[webpage on fun](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 <!-- Example of link to another file -->
+[additional info click](new-file.md)
 
 <!-- Example of an image -->
+## images
+
+![obrazek](./images/unnamed.png)
 
 <!-- Example of an image with hover text -->
+![obrazek](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Moench_2339.jpg/220px-Moench_2339.jpg "death")
+
+![picsum](https://picsum.photos/id/237/200/300)
+
+
 
 <!-- Example of equation or inline code -->
 
