@@ -7,11 +7,28 @@ My exercise in Markdown - Marta
 Dzień dobry. Smacznej kawusi.  
 Lubię kanapki.
 
+Dwie spacje i enter -> stworzenie nowego paragrafu.
+
+
 <!-- Example of another paragraph -->
 
+You can use some of html <p> does this __work__? </p> <p>is it a __new line__?
+
+
 <!-- Example of bold -->
+This is **bold**
+This is also __bold__ 
 
 <!-- Example of italic  -->
+_italic_   
+
+__fun__  
+
+___what happens now___   
+
+_hi_
+
+~~no~~ <- tyldy podwójne
 
 <!-- Example of headers -->
 
