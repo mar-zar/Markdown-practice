@@ -1,11 +1,15 @@
 <!-- Example of title -->
-My exercise in Markdown - Marta
+My exercise in Markdown - Marta<!--omit in toc-->
+
 ===
 <!-- Here comes the table of content -->
 Table of Content
-- [links and images](#links--images)
+- [Links \& images](#links--images)
   - [links](#links)
   - [images](#images)
+- [love](#love)
+- [friends](#friends)
+  - [cookies](#cookies)
 
 <!-- Example of paragraph of text with line break -->
 Dzień dobry. Smacznej kawusi.  
@@ -71,12 +75,29 @@ _hi_
 
 <!-- Example of table -->
 
-Column | 2nd column | third column  
-| --- | --- | --- |  
-  text | another text | something    
-   |what | is | this |  
-   O | M | G 
+| Column | 2nd column   | third column |
+| ------ | ------------ | ------------ |
+| text   | another text | something    |
+| what   | is           | this         |
+| O      | M            | G            |
+     
+ 
+
+   
+ # love
+  # friends
+  ## cookies
+
+- [Links \& images](#links--images)
+  - [links](#links)
+  - [images](#images)
+- [love](#love)
+- [friends](#friends)
+  - [cookies](#cookies)
+
+
        
+
 
 
 <!-- Paragraph after table -->
