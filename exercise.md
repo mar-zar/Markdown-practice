@@ -2,6 +2,10 @@
 My exercise in Markdown - Marta
 ===
 <!-- Here comes the table of content -->
+Table of Content
+- [links and images](#links--images)
+  - [links](#links)
+  - [images](#images)
 
 <!-- Example of paragraph of text with line break -->
 Dzień dobry. Smacznej kawusi.  
@@ -66,5 +70,13 @@ _hi_
 <!-- Example of numbered list -->
 
 <!-- Example of table -->
+
+Column | 2nd column | third column  
+| --- | --- | --- |  
+  text | another text | something    
+   |what | is | this |  
+   O | M | G 
+       
+
 
 <!-- Paragraph after table -->
