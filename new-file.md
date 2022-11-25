@@ -36,15 +36,21 @@ You can insert some external links for [additional info](https://www.youtube.com
 Or add a link to [another file](exercise.md)  
 
 ## Images
-You can add images from your drive 
-![obrazek](./images/unnamed.jpg)
+You can add images from your drive  
+
+![obrazek](./images/unnamed.jpg)  
+
 or from the internet   
 ![picsum](https://picsum.photos/id/237/200/300)  
   
-You can also include an image with hover text. Any text you want. 
+You can also include an image with hover text. Any text you want.  
 ![obrazek](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Moench_2339.jpg/220px-Moench_2339.jpg "death")
 
 <!-- Example of equation or inline code -->  
+# Maths
+
+I don't really know how this one works. I know you have to use '$' sign.  
+$\sqrt{4x-1}  
 
 
 <!-- Example of a block of code -->
