@@ -1,9 +1,9 @@
 
 My Markdown practice<!--omit in toc-->
-===
-Table of content    
+===  
 
-- [My Markdown practice](#my-markdown-practice)
+Table of contents    
+
 - [Paragraph of text with line break](#paragraph-of-text-with-line-break)
 - [Emphasis](#emphasis)
   - [Bold](#bold)
