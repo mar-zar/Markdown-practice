@@ -1,6 +1,7 @@
 My Markdown practice <!--omit in toc-->
 ===
-Table of content
+Table of content  
+
 
 # Paragraph of text with line break
 To create a line break or new line, end a line with two or more spaces, and then type return.  
@@ -55,10 +56,32 @@ $\sqrt{4x-1}=5$
 
 
 <!-- Example of a block of code -->
+# Block of code
+
+Use three backticks at both ends.
+
+```   
+<p> Here's where HTML won't work.  
+Or <b>will</b> it?   
+```
+Let's try the same without three backticks: <p> Here's where HTML won't work.  
+Or <b>will</b> it?   
 
 <!-- Example of code highlighting -->
+# Code highlighting  
+
+You mean this?
+```html   
+<p> Here's where HTML won't work.  
+Or <b>will</b> it?   
+```
 
 <!-- Example of quote -->
+
+# Quote  
+You can add some blockquotes just by using the ending angle brackets:  
+>*If you want to receive emails about my upcoming shows, please give me money so I can buy a computer.* - Phoebe Buffay  
+
 
 <!-- Example of bullet list -->
 
@@ -89,7 +112,7 @@ You can transform a text into a column just by adding some '|' and '-'
 
 Look! 
 
-I'm not great at advice. But can I interest you in a sarcastic comment?   
+"I'm not great at advice. But can I interest you in a sarcastic comment?" - Chandler Bing   
 
 
 | I'm | not great   | at advice. |
