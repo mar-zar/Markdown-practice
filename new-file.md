@@ -43,7 +43,8 @@ It works in the middle of a word too. M*art*a.
 ## Bold and italics
 That's simple! One asterisk for italics, two for bold... Add them up and ***there you go***. ___Three underscores___ will do the job as well. 
 ## Crossing out
-Use double tilde to show how much you don't like something. 
+Use double tilde to show how much you don't like something.  
+
 For example, Rick Astley would:  
 tell you how he is feeling  
 ~~give you up  
@@ -142,6 +143,13 @@ Look!
 | you  | in          | a        |
 | sarcastic    | comment         | ?           |  
   
-And when you are done with the column you can write whatever you want again. 
+And when you are done with the column you can write whatever you want again.   
 
-<!-- Paragraph after table -->
+  
+    
+
+
+
+THE END  
+===
+
