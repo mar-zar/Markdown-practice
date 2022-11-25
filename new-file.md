@@ -49,8 +49,9 @@ You can also include an image with hover text. Any text you want.
 <!-- Example of equation or inline code -->  
 # Maths
 
-I don't really know how this one works. I know you have to use '$' sign.  
-$\sqrt{4x-1}  
+I don't really know how this one works. I know you have to use a dollar sign on both ends.    
+
+$\sqrt{4x-1}=5$ 
 
 
 <!-- Example of a block of code -->
