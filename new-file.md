@@ -1,6 +1,27 @@
-My Markdown practice <!--omit in toc-->
+
+My Markdown practice<!--omit in toc-->
 ===
-Table of content  
+Table of content    
+
+- [My Markdown practice](#my-markdown-practice)
+- [Paragraph of text with line break](#paragraph-of-text-with-line-break)
+- [Emphasis](#emphasis)
+  - [Bold](#bold)
+  - [Italics](#italics)
+  - [Bold and italics](#bold-and-italics)
+  - [Crossing out](#crossing-out)
+- [Links and images](#links-and-images)
+  - [Links](#links)
+  - [Images](#images)
+- [Maths](#maths)
+- [Block of code](#block-of-code)
+- [Code highlighting](#code-highlighting)
+- [Quote](#quote)
+- [Lists](#lists)
+  - [Bullet lists](#bullet-lists)
+  - [Numbered lists](#numbered-lists)
+- [Columns](#columns)
+
 
 
 # Paragraph of text with line break

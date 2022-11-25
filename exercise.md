@@ -52,7 +52,7 @@ _hi_
 <!-- Example of an image -->
 ## images
 
-![obrazek](./images/unnamed.png)
+![obrazek](./images/unnamed.jpg)
 
 <!-- Example of an image with hover text -->
 ![obrazek](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Moench_2339.jpg/220px-Moench_2339.jpg "death")
